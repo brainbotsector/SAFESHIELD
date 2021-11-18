@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Safe Shield</string>
+    <string name="total_cases">Total Cases</string>
+    <string name="recovered">Recovered</string>
+</resources>
