@@ -1,1 +1,1 @@
-# SEM7_MCCPRaCs
+# SAFESHIELD-Covid Tracker Application
